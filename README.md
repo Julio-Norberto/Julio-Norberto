@@ -16,6 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarNSM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Um verdadeiro amante de tecnologia inspirado pela curiosidade.
-Atualmente estou estudando na parte front-end HTML5, CSS3, JavaScript e React JS. Para back-end tenho focado em Node JS.
+Um verdadeiro amante de tecnologia inspirado pela curiosidade. <br>
+Atualmente estou estudando na parte front-end HTML5, CSS3, JavaScript e React JS. Para back-end tenho focado em Node JS.<br>
 Meu objetivo atual é conseguir minha primeira vaga como desenvolvedor!
