@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarNSM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Norberto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Um verdadeiro amante de tecnologia inspirado pela curiosidade. <br>
 Atualmente tenho focado meus estudos no Next JS e TypeScript.<br>
