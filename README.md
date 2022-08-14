@@ -1,7 +1,7 @@
 ### Olá! meu nome é Júlio Norberto 🙋‍♂️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-9bab791a9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcesar_n/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-norberto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julionorberto_s/)
 
 
 
@@ -17,5 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Norberto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Um verdadeiro amante de tecnologia inspirado pela curiosidade. <br>
-Atualmente tenho focado meus estudos no Next JS e TypeScript.<br>
+Atualmente tenho focado meus estudos no Node JS e React Native.<br>
 Meu objetivo atual é conseguir uma vaga como desenvolvedor front-end!
