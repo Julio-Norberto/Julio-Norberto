@@ -14,7 +14,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Norberto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Um verdadeiro amante de tecnologia inspirado pela curiosidade. <br>
 Atualmente tenho focado meus estudos no Node JS e TypeScript.<br>
