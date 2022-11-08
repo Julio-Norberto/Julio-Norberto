@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🧑🏻‍💻 Desenvolvedor Full Stack<br> 🌐 Acadêmico de redes e certicado internacionalmente em Segurança<br><br>Sou um amante da tecnologia inspirado pela curiosidade!  🤖<br>
+ 🧑🏻‍💻 Desenvolvedor Web<br> 🌐 Acadêmico de redes e certicado internacionalmente em Segurança<br><br>Sou um amante da tecnologia inspirado pela curiosidade!  🤖<br>
 
 
 ## 🌐 Socials:
