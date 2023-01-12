@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Julio-Norberto&theme=nightowl&hide_border=false)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Norberto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
